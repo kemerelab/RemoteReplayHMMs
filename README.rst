@@ -16,4 +16,5 @@ This analysis makes extensive use of ``nelpy`` (https://github.com/nelpy/nelpy).
 
 .. raw:: html
 
-    <img src="https://raw.githubusercontent.com/kemerelab/RemoteReplayHMMs/master/.overview.png" width="60px", align="center">
+    <div style="text-align: center;"><img src="https://raw.githubusercontent.com/kemerelab/RemoteReplayHMMs/master/.overview.png" width="60px" alt="overview"></div>
+    
