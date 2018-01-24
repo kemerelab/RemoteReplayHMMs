@@ -2,7 +2,7 @@
 RemoteReplayHMMs
 =====
 
-Identification of remote replay using hidden Markov models from "`Latent Variable Models for Hippocampal Sequence Analysis <https://github.com/kemerelab/RemoteReplayHMMs/blob/master/Asilomar2017.pdf>`_" by Ackermann E, Maboudi K, Diba K, Kemere C, from the **Asilomar Conference on Signals, Systems, and Computers**, Pacific Grove, CA, October 29–November 1, 2017.
+Identification of remote replay using hidden Markov models from "`Latent Variable Models for Hippocampal Sequence Analysis <https://github.com/kemerelab/RemoteReplayHMMs/blob/master/Asilomar2017.pdf>`_" by **Etienne Ackermann, Kourosh Maboudi, Kamran Diba, & Caleb Kemere**, *Asilomar Conference on Signals, Systems, and Computers*, Pacific Grove, CA, October 29–November 1, 2017.
 
 Overview
 ========
@@ -18,5 +18,5 @@ This analysis makes extensive use of ``nelpy`` (https://github.com/nelpy/nelpy).
 
     .. image:: https://raw.githubusercontent.com/kemerelab/RemoteReplayHMMs/master/.overview.png
         :alt: overview
-        :width: 60%
+        :width: 400px
         :align: center
