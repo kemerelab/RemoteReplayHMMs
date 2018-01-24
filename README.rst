@@ -14,13 +14,6 @@ For more information, see the conference `paper <https://github.com/kemerelab/Re
 
 This analysis makes extensive use of ``nelpy`` (https://github.com/nelpy/nelpy).
 
-.. class:: no-web
-
-    .. image:: https://raw.githubusercontent.com/kemerelab/RemoteReplayHMMs/master/.overview.png
-        :alt: overview
-        :height: 40px
-        :align: center
-        
 .. raw:: html
 
-    <img src="https://raw.githubusercontent.com/kemerelab/RemoteReplayHMMs/master/.overview.png" width="400px">
+    <img src="https://raw.githubusercontent.com/kemerelab/RemoteReplayHMMs/master/.overview.png" width="60px", align="center">
