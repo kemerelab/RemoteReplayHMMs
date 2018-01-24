@@ -20,3 +20,7 @@ This analysis makes extensive use of ``nelpy`` (https://github.com/nelpy/nelpy).
         :alt: overview
         :height: 40px
         :align: center
+        
+.. raw:: html
+
+    <img src="https://raw.githubusercontent.com/kemerelab/RemoteReplayHMMs/master/.overview.png" width="400px">
