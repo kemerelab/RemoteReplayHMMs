@@ -18,5 +18,5 @@ This analysis makes extensive use of ``nelpy`` (https://github.com/nelpy/nelpy).
 
     .. image:: https://raw.githubusercontent.com/kemerelab/RemoteReplayHMMs/master/.overview.png
         :alt: overview
-        :width: 40px
+        :height: 40px
         :align: center
