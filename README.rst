@@ -2,7 +2,7 @@
 RemoteReplayHMMs
 =====
 
-Identification of remote replay using hidden Markov models from "`Latent Variable Models for Hippocampal Sequence Analysis <https://github.com/kemerelab/RemoteReplayHMMs/blob/master/Asilomar2017.pdf>`_" by **Etienne Ackermann, Kourosh Maboudi, Kamran Diba, & Caleb Kemere**, *Asilomar Conference on Signals, Systems, and Computers*, Pacific Grove, CA, October 29–November 1, 2017.
+Identification of remote replay using hidden Markov models from "`Latent Variable Models for Hippocampal Sequence Analysis <https://github.com/kemerelab/RemoteReplayHMMs/blob/master/asilomar2017.pdf>`_" by **Etienne Ackermann, Kourosh Maboudi, Kamran Diba, & Caleb Kemere**, *Asilomar Conference on Signals, Systems, and Computers*, Pacific Grove, CA, October 29–November 1, 2017.
 
 Overview
 ========
@@ -10,7 +10,7 @@ The activity of ensembles of neurons within the hippocampus is thought to enable
 
 More specifically, we analyze data obtained from CRCNS.org (https://crcns.org/data-sets/hc/hc-6), and reproduce several of the results from https://www.nature.com/articles/nn.2344, and we demonstrate how we can use HMMs to perform a similar remote replay analysis.
 
-For more information, see the conference `paper <https://github.com/kemerelab/RemoteReplayHMMs/blob/master/Asilomar2017.pdf>`_.
+For more information, see the conference `paper <https://github.com/kemerelab/RemoteReplayHMMs/blob/master/asilomar2017.pdf>`_.
 
 This analysis makes extensive use of ``nelpy`` (https://github.com/nelpy/nelpy).
 
@@ -18,5 +18,5 @@ This analysis makes extensive use of ``nelpy`` (https://github.com/nelpy/nelpy).
 
     .. image:: https://raw.githubusercontent.com/kemerelab/RemoteReplayHMMs/master/.overview.png
         :alt: overview
-        :width: 400px
+        :width: 40 px
         :align: center
